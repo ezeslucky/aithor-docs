@@ -1,6 +1,6 @@
-## 📘 Dify Documentation (Mintlify Edition)
+## 📘 Aithor Documentation (Mintlify Edition)
 
-Welcome to the documentation repository for Dify.
+Welcome to the documentation repository for Aithor.
 
 We warmly welcome your contributions — whether it’s proofreading, fixing typos, or submitting new content. Please feel free to open issues or PRs if you find anything that could be improved!
 
@@ -48,10 +48,10 @@ Your help in reviewing, editing, and expanding the documentation is truly apprec
 	• We welcome tri-lingual contributions (English, Simplified Chinese, Japanese) — contribute in one or more languages if possible.
 
 
-Thanks again for being part of Dify’s documentation journey!
+Thanks again for being part of Aithor’s documentation journey!
 
 ⸻
 
 ## 📄 License
 
-The Dify product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
+The Aithor product documentation in the assets, content, and data folders are licensed under a [CC-BY license](LICENSE).
